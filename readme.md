@@ -3,7 +3,7 @@
 Esse foi um projeto desenvolvido durante um curso extra curricular de ReactJs na plataforma Alura. Ele permite a adição de equipes e suas caracteristicas (Nome e cor) e a adição de membros a essa equipe, bem como favoritar e remover membros.
 
 # Utilização
-O projeto está disponível no gitHub Pages
+O projeto está disponível no [GitHub Pages](https://joaovictorfdebarros.github.io/OrganogramaReact/)
 
 # Instalação
 1. Clone o repositório
