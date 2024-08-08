@@ -1,0 +1,14 @@
+.customicon{
+    display: flex;
+    justify-content: right;
+}
+
+.customicon .icondraw{
+    margin-right: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    transform: scale(150%);
+    cursor: pointer;
+
+    color: #6278F7;
+}

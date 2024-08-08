@@ -1,0 +1,22 @@
+.dropdownlist{
+    margin-top: 2em;
+    display: block;
+    margin-bottom: 8px;
+    font-size: larger;
+}
+
+.dropdownlist label{
+    display: block;
+    margin-bottom: 0.5em;
+    font-size: large;
+}
+
+.dropdownlist select{
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border: none;
+    width: 100%;
+    font-size: large;
+    padding: 24px;
+    cursor: pointer;
+}

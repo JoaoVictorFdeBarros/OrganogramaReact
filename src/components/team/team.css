@@ -1,0 +1,32 @@
+.team{
+    padding: 32px;
+    background-color: #D9F7E9;
+    position: relative;
+    background-image: url('../../../public/images/fundo.png');
+}
+
+.team .content{
+    text-align: center;
+}
+
+.team h3{
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.team .colabs{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.team .colorinput{
+    position: absolute;
+    margin-left: 90%;
+    transform: scale(0.8);
+    cursor: pointer;
+    border: none;
+}
