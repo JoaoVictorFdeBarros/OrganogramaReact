@@ -8,7 +8,7 @@ O projeto está disponível no [GitHub Pages](https://joaovictorfdebarros.github
 # Instalação
 1. Clone o repositório
     ```bash
-    git clone url
+    git clone https://github.com/JoaoVictorFdeBarros/OrganogramaReact.git
     ```
 2. Dependências
     ```bash
