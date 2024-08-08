@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OrganogramaReact/static/css/main.224d719d.css",
+    "main.js": "/OrganogramaReact/static/js/main.8b0010ab.js",
+    "static/media/fundo.png": "/OrganogramaReact/static/media/fundo.634e6bd472eff6edd80e.png",
+    "index.html": "/OrganogramaReact/index.html",
+    "main.224d719d.css.map": "/OrganogramaReact/static/css/main.224d719d.css.map",
+    "main.8b0010ab.js.map": "/OrganogramaReact/static/js/main.8b0010ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224d719d.css",
+    "static/js/main.8b0010ab.js"
+  ]
+}
